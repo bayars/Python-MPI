@@ -7,3 +7,6 @@
 [submodule "Dice-WindFall"]
 	path = Dice-WindFall
 	url = git@github.com:rection/Dice-WindFall.git
+[submodule "Hamming-Distance-Python"]
+	path = Hamming-Distance-Python
+	url = git@github.com:rection/Hamming-Distance-Python.git
