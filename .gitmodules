@@ -1,0 +1,3 @@
+[submodule "Pi-Order-Calc-MPI"]
+	path = Pi-Order-Calc-MPI
+	url = git@github.com:rection/Pi-Order-Calc-MPI.git
