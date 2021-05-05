@@ -1,3 +1,6 @@
 [submodule "Pi-Order-Calc-MPI"]
 	path = Pi-Order-Calc-MPI
 	url = git@github.com:rection/Pi-Order-Calc-MPI.git
+[submodule "Dice-WindFall-MPI"]
+	path = Dice-WindFall-MPI
+	url = git@github.com:rection/Dice-WindFall-MPI.git
