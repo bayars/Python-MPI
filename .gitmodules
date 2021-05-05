@@ -13,3 +13,6 @@
 [submodule "Trepezoidal-Integral-MPI"]
 	path = Trepezoidal-Integral-MPI
 	url = git@github.com:rection/Trepezoidal-Integral-MPI.git
+[submodule "Hamming-Distance-MPI"]
+	path = Hamming-Distance-MPI
+	url = git@github.com:rection/Hamming-Distance-MPI.git
