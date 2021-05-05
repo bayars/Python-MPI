@@ -4,3 +4,6 @@
 [submodule "Dice-WindFall-MPI"]
 	path = Dice-WindFall-MPI
 	url = git@github.com:rection/Dice-WindFall-MPI.git
+[submodule "Dice-WindFall"]
+	path = Dice-WindFall
+	url = git@github.com:rection/Dice-WindFall.git
